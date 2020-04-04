@@ -1,0 +1,14 @@
+﻿#error {
+    color: red;
+    display: none;
+    font-size: 1.5em;
+}
+body{
+    background-color: #7B6B43;
+    font-family: fantasy;
+    font-size: 2em;
+}
+
+.myButton {
+    font-family: fantasy;
+}

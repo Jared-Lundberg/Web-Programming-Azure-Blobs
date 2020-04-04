@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{5C61CA2E-1731-4590-A423-C3B2E5CE5AA2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Survivor PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Survivor/Services/ImageTableStorage.cs">
+    <Files>
+      <File FileName="Survivor/Entities/ImageEntity.cs" Line="20" Column="1" />
+      <File FileName="Survivor/Controllers/ImagesController.cs" />
+      <File FileName="Survivor/wwwroot/javascript/common.js" />
+      <File FileName="Survivor/wwwroot/index.html" />
+      <File FileName="Survivor/Startup.cs" />
+      <File FileName="Survivor/Models/ImageModel.cs" />
+      <File FileName="Survivor/Services/ImageTableStorage.cs" Line="64" Column="11" />
+      <File FileName="Survivor/Services/UsernameProvider.cs" />
+      <File FileName="Survivor/Services/IUsernameProvider.cs" />
+      <File FileName="Survivor/wwwroot/styles.css" Line="6" Column="1" />
+      <File FileName="Survivor/wwwroot/javascript/azure-storage.blob.js" Line="1" Column="1" />
+      <File FileName="Survivor/Services/ICloudStorageAccountProvider.cs" Line="1" Column="1" />
+      <File FileName="Survivor/Services/CloudStorageAccountProvider.cs" Line="9" Column="56" />
+      <File FileName="Survivor/Services/IImageTableStorage.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Survivor" expanded="True">
+            <Node name="Survivor" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="ImageTableStorage.cs" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="javascript" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

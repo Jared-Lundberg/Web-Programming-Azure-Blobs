@@ -1,0 +1,16 @@
+/Users/Jared/Desktop/survivor/Survivor/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/Jared/Desktop/survivor/Survivor/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/Jared/Desktop/survivor/Survivor/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/Jared/Desktop/survivor/Survivor/bin/Debug/netcoreapp2.2/Survivor.deps.json
+/Users/Jared/Desktop/survivor/Survivor/bin/Debug/netcoreapp2.2/Survivor.runtimeconfig.json
+/Users/Jared/Desktop/survivor/Survivor/bin/Debug/netcoreapp2.2/Survivor.runtimeconfig.dev.json
+/Users/Jared/Desktop/survivor/Survivor/bin/Debug/netcoreapp2.2/Survivor.dll
+/Users/Jared/Desktop/survivor/Survivor/bin/Debug/netcoreapp2.2/Survivor.pdb
+/Users/Jared/Desktop/survivor/Survivor/obj/Debug/netcoreapp2.2/Survivor.csprojAssemblyReference.cache
+/Users/Jared/Desktop/survivor/Survivor/obj/Debug/netcoreapp2.2/Survivor.RazorAssemblyInfo.cache
+/Users/Jared/Desktop/survivor/Survivor/obj/Debug/netcoreapp2.2/Survivor.RazorAssemblyInfo.cs
+/Users/Jared/Desktop/survivor/Survivor/obj/Debug/netcoreapp2.2/Survivor.AssemblyInfoInputs.cache
+/Users/Jared/Desktop/survivor/Survivor/obj/Debug/netcoreapp2.2/Survivor.AssemblyInfo.cs
+/Users/Jared/Desktop/survivor/Survivor/obj/Debug/netcoreapp2.2/Survivor.RazorTargetAssemblyInfo.cache
+/Users/Jared/Desktop/survivor/Survivor/obj/Debug/netcoreapp2.2/Survivor.dll
+/Users/Jared/Desktop/survivor/Survivor/obj/Debug/netcoreapp2.2/Survivor.pdb
